@@ -1,6 +1,5 @@
-package JavaApp;
+package JavaApp.LambdaExpression;
 
-import javax.sound.midi.Soundbank;
 @FunctionalInterface
 interface MyFunctionalInterface{
     void FunctionalMethod1();
